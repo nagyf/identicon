@@ -7,8 +7,8 @@ who do not upload an avatar themselves. Some examples:
 ![erlang](examples/erlang.png)
 ![marcsi](examples/marcsi.png)
 ![nagyf](examples/nagyf.png)
-![jane doe](examples/jane doe.png)
-![john doe](examples/john doe.png)
+![jane doe](examples/jane_doe.png)
+![john doe](examples/john_doe.png)
 
 ## Usage
 
